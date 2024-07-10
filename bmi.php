@@ -15,7 +15,7 @@
         }
     </style>
 </head>
-<body>
+<body style="background-image: url(images/bmi.png);background-repeat: no-repeat;background-size: cover;">
     
 <nav class="navbar navbar-expand-lg py-0" style="padding-left: 50px; background-color: #e7f9ff">
   <div class="container-fluid">
@@ -50,7 +50,7 @@
 
 <div class="container">
     <div class="row">
-        <h1 style="margin-top: 30px; margin-left: 400px;">Perhitungan BMI</h1>
+        <h1 style="margin-top: 30px; margin-left: 400px; font-family: cursive; color: #39849c">Perhitungan BMI</h1>
             <div class="col-6">
                 <form action="" method="POST">
                     <label for="nama" style="font-size: large;">Nama</label>

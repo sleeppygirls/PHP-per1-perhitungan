@@ -13,7 +13,7 @@
             font-family: comic sans ms;
             margin-top: 30px;
             margin-bottom: 50px;
-            color: rgb(211, 92, 151);
+            color: #3CB371;
         }
 
         p {
@@ -32,7 +32,7 @@
 
 </head>
 
-<body>
+<body style="background-image: url(images/home.jpg);background-repeat: no-repeat;background-size: cover;">
 
 <nav class="navbar navbar-expand-lg py-0" style="padding-left: 50px; background-color: #e8ffe7">
   <div class="container-fluid">

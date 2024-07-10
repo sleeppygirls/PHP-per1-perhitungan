@@ -31,7 +31,7 @@ function keliling ($p, $l){
         }
     </style>
 </head>
-<body>
+<body style="background-image: url(images/persegipanjang.jpg);background-repeat: no-repeat;background-size: cover;">
     
 <nav class="navbar navbar-expand-lg py-0" style="padding-left: 50px; background-color: rgb(255, 250, 223)">
   <div class="container-fluid">
@@ -66,7 +66,7 @@ function keliling ($p, $l){
 
 <div class="container">
     <div class="row">
-        <h1 style="margin-top: 30px; margin-left: 280px; margin-bottom: 70px;">Hitung Bangun Persegi Panjang</h1>
+        <h1 style="margin-top: 30px; margin-left: 280px; margin-bottom: 70px; color: #cfb72e; font-family: cursive;">Hitung Bangun Persegi Panjang</h1>
             <div class="col-6">
                 <form action="" method="POST">
                     <label for="panjang" style="font-size: large;">Panjang (cm)</label>
